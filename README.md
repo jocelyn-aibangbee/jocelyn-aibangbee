@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello 👋, My name is Jocelyn. I am a Nurse and Clinical Informatics Professional.
 
-<!--
-**jocelyn-aibangbee/jocelyn-aibangbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skillsets
+*	**Programming languages**: SQL, Tableau
+* **Databases**: Oracle, PostgreSQL, Microsoft SQL Server, Big Query, duckdb
+*	**Data Analytics:** Data Mining, Data visualization, Data Manipulation, Statistical Inference, Dashboard Development
+* **Research:** Qualitative and Quantitative research methods, Scientific Writing
 
-Here are some ideas to get you started:
+### Publications
+My list of research publications can be found on [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=jocelyn+aibangbee&btnG=)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects and Interests
+- Quality Improvement in Healthcare.
